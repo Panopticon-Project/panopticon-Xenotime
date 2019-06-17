@@ -34,3 +34,5 @@ https://www.securityweek.com/russian-hackers-scrambled-erase-digital-footprints-
 https://www.wired.com/story/triton-hackers-scan-us-power-grid
 
 https://dragos.com/blog/industry-news/threat-proliferation-in-ics-cybersecurity-xenotime-now-targeting-electric-sector-in-addition-to-oil-and-gas/
+
+https://www.securityweek.com/hackers-behind-triton-malware-target-electric-utilities-us-apac
