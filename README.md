@@ -36,3 +36,5 @@ https://www.wired.com/story/triton-hackers-scan-us-power-grid
 https://dragos.com/blog/industry-news/threat-proliferation-in-ics-cybersecurity-xenotime-now-targeting-electric-sector-in-addition-to-oil-and-gas/
 
 https://www.securityweek.com/hackers-behind-triton-malware-target-electric-utilities-us-apac
+
+https://www.trendmicro.com/vinfo/in/security/news/cyber-attacks/dymalloy-electrum-and-xenotime-hacking-groups-set-their-targets-on-us-energy-sector
