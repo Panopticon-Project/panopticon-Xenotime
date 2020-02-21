@@ -38,3 +38,5 @@ https://dragos.com/blog/industry-news/threat-proliferation-in-ics-cybersecurity-
 https://www.securityweek.com/hackers-behind-triton-malware-target-electric-utilities-us-apac
 
 https://www.trendmicro.com/vinfo/in/security/news/cyber-attacks/dymalloy-electrum-and-xenotime-hacking-groups-set-their-targets-on-us-energy-sector
+
+https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
