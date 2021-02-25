@@ -40,3 +40,5 @@ https://www.securityweek.com/hackers-behind-triton-malware-target-electric-utili
 https://www.trendmicro.com/vinfo/in/security/news/cyber-attacks/dymalloy-electrum-and-xenotime-hacking-groups-set-their-targets-on-us-energy-sector
 
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
+
+https://blogs.cisco.com/security/how-does-triton-attack-triconex-industrial-safety-systems
