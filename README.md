@@ -44,3 +44,5 @@ https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-
 https://blogs.cisco.com/security/how-does-triton-attack-triconex-industrial-safety-systems
 
 https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector
+
+https://www.wired.com/story/triton-berserk-bear-russian-hackers-doj-indictment
