@@ -42,3 +42,5 @@ https://www.trendmicro.com/vinfo/in/security/news/cyber-attacks/dymalloy-electru
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
 
 https://blogs.cisco.com/security/how-does-triton-attack-triconex-industrial-safety-systems
+
+https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector
