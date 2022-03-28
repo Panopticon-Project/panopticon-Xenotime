@@ -15,7 +15,7 @@ http://www.securityweek.com/triton-malware-exploited-zero-day-schneider-electric
 
 http://techgenix.com/triton-malware/
 
-https://www.darkreading.com/vulnerabilities---threats/schneider-electric-triton-trisis-attack-used-0-day-flaw-in-its-safety-controller-system-and-a-rat/d/d-id/1330845?elq_mid=82684&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20180119&cid=NL_DR_EDT_DR_daily_20180119&elqTrackId=e64f2ed0f507498596da934928e5041b&elq=d8b510f57d9348aebfe408067579b949&elqaid=82684&elqat=1&elqCampaignId=29444
+https://www.darkreading.com/vulnerabilities---threats/schneider-electric-triton-trisis-attack-used-0-day-flaw-in-its-safety-controller-system-and-a-rat/d/d-id/1330845
 
 http://www.securityweek.com/triton-malware-exploited-zero-day-schneider-electric-devices
 
@@ -46,3 +46,5 @@ https://blogs.cisco.com/security/how-does-triton-attack-triconex-industrial-safe
 https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector
 
 https://www.wired.com/story/triton-berserk-bear-russian-hackers-doj-indictment
+
+https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector
